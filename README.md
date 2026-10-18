@@ -1,12 +1,9 @@
 # Hi, I'm ty2035 👋
 
-**Making everyday tasks a little easier with code and design.**  
-코드와 디자인으로 일상의 작은 불편함을 해결합니다.
-
 I'm a student from South Korea, interested in programming and design.  
 I build things I want to use, starting with the repetitive tasks that get in the way.
 
-안녕하세요! 프로그래밍과 디자인에 관심이 있는 학생입니다.  
+안녕하세요! 프로그래밍과 디자인에 관심이 있는 중학생입니다.  
 직접 쓰고 싶은 도구를 만들며, 반복되는 번거로운 일을 조금씩 줄여 나가고 있습니다.
 
 ---
